@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ses-seviye-kontrol\ses-seviye-kontrol\bin\Debug\ses-seviye-kontrol.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ses-seviye-kontrol\ses-seviye-kontrol\bin\Debug\ses-seviye-kontrol.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ses-seviye-kontrol\ses-seviye-kontrol\bin\Debug\ses-seviye-kontrol.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ses-seviye-kontrol\ses-seviye-kontrol\obj\Debug\ses-seviye-kontrol.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ses-seviye-kontrol\ses-seviye-kontrol\obj\Debug\ses-seviye-kontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ses-seviye-kontrol\ses-seviye-kontrol\obj\Debug\ses_seviye_kontrol.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ses-seviye-kontrol\ses-seviye-kontrol\obj\Debug\ses_seviye_kontrol.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ses-seviye-kontrol\ses-seviye-kontrol\obj\Debug\ses-seviye-kontrol.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ses-seviye-kontrol\ses-seviye-kontrol\obj\Debug\ses-seviye-kontrol.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ses-seviye-kontrol\ses-seviye-kontrol\obj\Debug\ses-seviye-kontrol.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\ses-seviye-kontrol\ses-seviye-kontrol\obj\Debug\ses-seviye-kontrol.pdb
